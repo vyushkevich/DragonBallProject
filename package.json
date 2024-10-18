@@ -1,0 +1,17 @@
+{
+    "name": "dragonball",
+    "version": "1.0.0",
+    "description": "dragonball",
+    "main": "index.html",
+    "dependencies": {
+        "json-server": "*"
+    },
+    "devDependencies": {
+        "jest": "*"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "OM",
+    "license": "ISC"
+}
